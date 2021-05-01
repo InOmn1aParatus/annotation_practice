@@ -2,7 +2,7 @@
 def add_numbers()
   # Declare first variable 'first_num' value as integer
   first_num = 9
-  # Declare second vcariable 'second_num' as integer
+  # Declare second variable 'second_num' as integer
   second_num = 14
 
   # Re-assign 'first_num' as integer
